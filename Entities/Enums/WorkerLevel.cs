@@ -1,9 +1,9 @@
 ﻿namespace ExemploComposição.Entities.Enums {
     enum WorkerLevel : int {
 
-        Junior = 1,
-        Mid_Level = 2,
-        Senior = 3
+        Junior = 0,
+        MidLevel = 1,
+        Senior = 2
 
     }
 }
